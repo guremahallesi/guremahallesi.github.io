@@ -242,6 +242,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      # _teaching
+  - scope:
+      path: ""
+      type: duyurular
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      # _teaching
+  - scope:
+      path: ""
+      type: etkinlikler
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
