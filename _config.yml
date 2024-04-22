@@ -242,7 +242,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      # _teaching
+      # _duyurular
   - scope:
       path: ""
       type: duyurular
@@ -251,7 +251,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      # _teaching
+      # _etkinlikler
   - scope:
       path: ""
       type: etkinlikler
