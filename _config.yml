@@ -202,6 +202,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+      duyurular:
+    output: true
+    permalink: /:collection/:path/
+      etkinlikler:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
