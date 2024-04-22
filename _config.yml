@@ -22,9 +22,9 @@ repository               : "guremahallesi/guremahallesi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Güre Mahallesi"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Giresun"
   employer         : "Güre"
   uri              : # URL
