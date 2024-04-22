@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Mahallemiz"
+    url: /hakkinda/
 
-  - title: "Talks"
+  - title: "Etkinlikler"
+    url: /year-archive/
+
+  - title: "Muhtarımız"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Duyurular"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "İletişim"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
