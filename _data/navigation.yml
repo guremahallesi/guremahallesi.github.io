@@ -4,13 +4,13 @@ main:
     url: /hakkinda/
 
   - title: "Etkinlikler"
-    url: /etkinlikler/
+    url: /posts/
 
   - title: "Muhtarımız"
     url: /ben/    
 
   - title: "Duyurular"
-    url: /duyurular/    
+    url: /teaching/    
     
   - title: "İletişim"
     url: /iletisim/
