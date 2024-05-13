@@ -10,6 +10,7 @@ redirect_from:
 Giresun Güre Mahallesi Hakkında
 -----
 
+
 Giresun'un incisi Güre Mahallesi, muhteşem sahil şeridi ve doğal güzellikleriyle göz kamaştırır. Tarihi dokusuyla da dikkat çeken mahallemiz, zengin bir kültürel mirasa ev sahipliği yapar.
 
 Tarih ve Kültür

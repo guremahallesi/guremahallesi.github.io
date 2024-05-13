@@ -8,6 +8,9 @@ redirect_from:
 
 Merhaba Mahalle Sakinleri!
 
+ben hazırlıyorum. 
+
+
 Ben [Muhtarın Adı Soyadı], Güre Mahallesi'nin muhtarı olarak sizlere hizmet vermekten onur duyuyorum. Mahallemizin gelişimine ve refahına katkı sağlamak için buradayım ve sizinle birlikte çalışmayı sabırsızlıkla bekliyorum.
 
 Ben Kimim?
