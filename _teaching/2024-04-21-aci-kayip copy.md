@@ -7,3 +7,5 @@ location: "Giresun, Turkey"
 ---
 
 3. bir deneme
+
+<img src="../images/bulancak-duragi-slayt001.jpg" alt="Güre Mahallesi">
